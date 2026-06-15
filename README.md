@@ -44,7 +44,7 @@ Landing Page Development
 
 ##📸 Preview
 
-![HeyGen Clone Preview](screenshot.png)
+<img src="CloneHeygen/screenshot.png" width="100%">
 
 ##📄 Disclaimer
 
