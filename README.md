@@ -1,9 +1,9 @@
 
-##🎥 HeyGen Clone
+## 🎥 HeyGen Clone
 
 A responsive HeyGen-inspired landing page built using HTML5 and CSS3. This project recreates the look and feel of the HeyGen website with a modern design, responsive layout, and smooth animations.
 
-##🚀 Features
+## 🚀 Features
 
 Responsive landing page design
 Modern UI inspired by HeyGen
@@ -15,24 +15,24 @@ Enterprise and Developer sections
 CSS hover effects and animations
 Pure HTML & CSS (No JavaScript)
 
-##🛠️ Built With
+## 🛠️ Built With
 
 HTML5
 CSS3
 
-##📂 Files
+## 📂 Files
 
 HeyGen-Clone/
 │
 ├── index.html
 └── style.css
 
-##💻 How to Run
+## 💻 How to Run
 
 Download or clone the repository.
 Open index.html in your browser.
 
-##🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This project was built to practice:
 
@@ -42,11 +42,11 @@ CSS Flexbox & Grid
 CSS Animations
 Landing Page Development
 
-##📸 Preview
+## 📸 Preview
 
 <img src="CloneHeygen/screenshot.png" width="100%">
 
-##📄 Disclaimer
+## 📄 Disclaimer
 
 This project is a frontend clone created for educational and learning purposes only. All design inspiration belongs to HeyGen.
 
