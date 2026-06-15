@@ -44,7 +44,7 @@ Landing Page Development
 
 ##📸 Preview
 
-Add a screenshot of your project here after uploading one.
+![HeyGen Clone](CloneHeygen/Screenshot 2026-06-15 132011.png)
 
 ##📄 Disclaimer
 
