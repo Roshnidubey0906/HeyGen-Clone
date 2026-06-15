@@ -44,7 +44,7 @@ Landing Page Development
 
 ##📸 Preview
 
-![HeyGen Clone](CloneHeygen/Screenshot 2026-06-15 132011.png)
+![HeyGen Clone Preview](Screenshot%202026-06-15%20132011.png)
 
 ##📄 Disclaimer
 
